@@ -1,0 +1,18 @@
+INTERNSHIP REPORT
+Project Title: Iris Classification
+Algorithm Used: K-Nearest Neighbors (KNN)
+
+Objective:
+To build a machine learning model that can classify Iris flowers into three species based on their sepal length, sepal width, petal length, and petal width.
+
+Steps Taken:
+1. Data Loading: Loaded the Iris dataset.
+2. Preprocessing: Applied Standard Scaling to the features.
+3. Splitting: Split the data into 80% training and 20% testing sets.
+4. Modeling: Trained a KNN classifier with K=5.
+5. Evaluation: Evaluated using Accuracy, F1 Score, and Confusion Matrix.
+
+Results:
+- Accuracy: 1.0 (100%)
+- F1 Score: 1.0
+- The model successfully classified all test samples correctly.
