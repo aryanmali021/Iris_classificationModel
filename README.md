@@ -1,4 +1,3 @@
-## Project2 decodelabs
 
 # Iris Flower Classification Using KNN
 
@@ -92,9 +91,5 @@ python main.py
 * Model Evaluation
 * Model Persistence
 
-## Author
-
-Aryan Mali
-B.Tech Artificial Intelligence & Data Science
 
 
