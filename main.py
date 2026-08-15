@@ -56,3 +56,7 @@ print("F1 Score:", f1)
 cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:")
 print(cm)
+
+
+
+# author = Aryan mali
