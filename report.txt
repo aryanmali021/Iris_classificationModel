@@ -1,4 +1,3 @@
-INTERNSHIP REPORT
 Project Title: Iris Classification
 Algorithm Used: K-Nearest Neighbors (KNN)
 
